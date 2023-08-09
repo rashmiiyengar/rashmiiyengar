@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rashmi Iyengar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Rashmi Iyengar
 ======================================================================================================================================
 
 Software Engineer
@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Sunnyvale,California
 * ✉️  You can contact me at [rashmiiyengar255@gmail.com](mailto:rashmiiyengar255@gmail.com)
-* 🧠  I'm learning Data structures
+* 🧠  I'm learning JS
 
 ### Skills
 
