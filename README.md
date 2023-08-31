@@ -15,9 +15,7 @@ Software Engineer
   <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
 </a>
-  <a href="https://www.selenium.dev/documentation/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/tools/selenium-original.svg" width="36" height="36" alt="Selenium" />
-</a>
+ 
 </p>
 
 
