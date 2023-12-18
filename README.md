@@ -6,7 +6,6 @@ Software Engineer
 
 * 🌍  I'm based in Sunnyvale,California
 * ✉️  You can contact me at [rashmiiyengar255@gmail.com](mailto:rashmiiyengar255@gmail.com)
-* 🧠  I'm learning JS
 
 ### Skills
 
