@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [mern-estate](https://github.com/rashmiiyengar/mern-estate)
 
-- 🌱 I’m currently learning **Selenium , React**
+- 🌱 I’m currently Focusing on improving my skills in Test Automation. I believe in continuous learning and enjoy exploring new technologies.
 
 - 📫 How to reach me **rashmiiyengar255@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rashmisoundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmisoundar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rashmi-soundar-22a62276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmisoundar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rashmiiyengar255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rashmiiyengar255" height="30" width="40" /></a>
 </p>
 
