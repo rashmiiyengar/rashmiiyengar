@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmiiyengar" alt="rashmiiyengar" /></a> </p>
 
-- 🔭 I’m currently working on [mern-estate](https://github.com/rashmiiyengar/mern-estate)
+- 🔭 I’m currently working on [Appium Framework](https://github.com/rashmiiyengar/MasterAppiumFramework)
 
 - 🌱 I’m currently Focusing on improving my skills in Test Automation. I believe in continuous learning and enjoy exploring new technologies.
 
