@@ -24,10 +24,10 @@ jobs:
         run: git status
 
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@v0.6.0  # Use the correct version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: main  # Specify your main branch here
           force: true
 
       - name: Deploy to GitHub Pages
