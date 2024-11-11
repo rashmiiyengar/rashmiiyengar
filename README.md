@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmi</h1>
-<h3 align="center">A passionate Software Engineer based in Sunnyvale</h3>
+<h3 align="center">A passionate Software QA Engineer based in Sunnyvale</h3>
 
 ![](https://komarev.com/ghpvc/?username=rashmiiyengar&label=PROFILE+VIEWS) 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="rashmiiyengar" style="width: 100%; height: auto;/> </p>
