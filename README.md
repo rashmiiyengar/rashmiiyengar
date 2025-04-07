@@ -6,11 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rashmiiyengar&theme=onedark)](https://github-profile-trophy.vercel.app/?username=rashmiiyengar)
 
-
-- 🔭 I’m currently working on [Appium Framework](https://github.com/rashmiiyengar/MasterAppiumFramework)
-- 🔭 I’m currently working on [Leetcode Practice](https://github.com/rashmiiyengar/DSA)
-
-- 🌱 I’m currently Focusing on improving my skills in Test Automation. I believe in continuous learning and enjoy exploring new technologies.
+- 🌱 Actively enhancing my skills in Test Automation with a focus on modern frameworks and best practices. I'm a firm believer in continuous learning and love exploring technologies that drive quality and efficiency.
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" alt="rashmiiyengar" /> </p>
 - 📫 How to reach me **rashmiiyengar255@gmail.com**
 
