@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rashmiiyengar&theme=onedark)](https://github-profile-trophy.vercel.app/?username=rashmiiyengar)
 
+I maintain a [Projects section](https://github.com/rashmiiyengar?tab=projects) to track all my current work and organize tasks for better productivity and collaboration, you can find the projects i work on daily basis here.
+
 - 🌱 Actively enhancing my skills in Test Automation with a focus on modern frameworks and best practices. I'm a firm believer in continuous learning and love exploring technologies that drive quality and efficiency.
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" alt="rashmiiyengar" /> </p>
 - 📫 How to reach me **rashmiiyengar255@gmail.com**
